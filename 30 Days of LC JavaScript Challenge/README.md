@@ -12,3 +12,4 @@
 |[Day 9: Memoize](https://leetcode.com/problems/memoize/) | [Solution Completed](./Day%209/) |
 |[Day 10: Curry](https://leetcode.com/problems/curry/) | [Solution Completed](./Day%2010/) |
 |[Day 11: Sleep](https://leetcode.com/problems/sleep/description/) | [Solution Completed](./Day%2011/) |
+|[Day 12: Promise Time Limit](https://leetcode.com/problems/promise-time-limit/) | [Solution Completed](./Day%2012/) |
