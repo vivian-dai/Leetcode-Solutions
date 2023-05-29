@@ -18,3 +18,4 @@ class ParkingSystem(big: Int, medium: Int, small: Int) {
  * var obj = ParkingSystem(big, medium, small)
  * var param_1 = obj.addCar(carType)
  */
+ 
