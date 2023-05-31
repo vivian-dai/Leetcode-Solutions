@@ -6,4 +6,5 @@ Because Ri has something against Kotlin
 |Problem|Solution|
 |-|-|
 |[Design Parking System](https://leetcode.com/problems/design-parking-system/)|[Solution](./Daily%20Challenge/2023-05-29/ParkingSystem.kt)|
-|[Design HashSet](https://leetcode.com/problems/design-hashset/submissions/)|[Solution](./Daily%20Challenge/2023-05-30/MyHashSet.kt)|
+|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Solution](./Daily%20Challenge/2023-05-30/MyHashSet.kt)|
+|[Design Underground System](https://leetcode.com/problems/design-underground-system/)|[Solution](./Daily%20Challenge/2023-05-31/UndergroundSystem.kt)|
