@@ -12,7 +12,7 @@ Because Ri has something against Kotlin
 |[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Solution](./Daily%20Challenge/2023-06-09/Solution.kt)|
 |[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude)|[Solution](./Daily%20Challenge/2023-06-19/Solution.kt)|
 
-## Ever Racket Solution
+## Every Racket Solution
 Because Ri doesn't like Racket either
 |Problem|Solution|
 |-|-|
