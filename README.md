@@ -11,3 +11,9 @@ Because Ri has something against Kotlin
 |[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Solution](./Daily%20Challenge/2023-06-08/Solution.kt)|
 |[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Solution](./Daily%20Challenge/2023-06-09/Solution.kt)|
 |[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude)|[Solution](./Daily%20Challenge/2023-06-19/Solution.kt)|
+
+## Ever Racket Solution
+Because Ri doesn't like Racket either
+|Problem|Solution|
+|-|-|
+|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Solution](./Daily%20Challenge/2023-07-24/solution.rkt)|
