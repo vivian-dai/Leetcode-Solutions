@@ -1,5 +1,6 @@
 # Leetcode Solutions
-Thanks [@Ri-Hong](https://github.com/Ri-Hong) for introducing me to the Leetcode T-shirt
+Thanks [@Ri-Hong](https://github.com/Ri-Hong) for introducing me to the Leetcode T-shirt  
+Thanks [@Celeste04](https://github.com/Celeste04) and [@xuserena12](https://github.com/xuserena12) for [dragging me back into Leetcode](#math-239)
 
 ## Every Kotlin Solution
 Because Ri has something against Kotlin
@@ -17,3 +18,9 @@ Because Ri doesn't like Racket either
 |Problem|Solution|
 |-|-|
 |[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Solution](./Daily%20Challenge/2023-07-24/solution.rkt)|
+
+## Math 239
+Little challenge I decided to agree to
+|Count|Problem|Solution|
+|-|-|-|
+|1|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|[Solution](./Daily%20Challenge/2024/03%20-%20March/2024-03-21/solution.py)|
