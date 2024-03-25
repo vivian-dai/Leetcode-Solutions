@@ -24,3 +24,4 @@ Little challenge I decided to agree to
 |Count|Problem|Solution|
 |-|-|-|
 |1|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|[Solution](./Daily%20Challenge/2024/03%20-%20March/2024-03-21/solution.py)|
+|2|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)|[Solution](./Daily%20Challenge/2024/03%20-%20March/2024-03-25/solution.py)|
