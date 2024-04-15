@@ -6,18 +6,18 @@ Thanks [@Celeste04](https://github.com/Celeste04) and [@xuserena12](https://gith
 Because Ri has something against Kotlin
 |Problem|Solution|
 |-|-|
-|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|[Solution](./Daily%20Challenge/2023-05-29/ParkingSystem.kt)|
-|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Solution](./Daily%20Challenge/2023-05-30/MyHashSet.kt)|
-|[Design Underground System](https://leetcode.com/problems/design-underground-system/)|[Solution](./Daily%20Challenge/2023-05-31/UndergroundSystem.kt)|
-|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Solution](./Daily%20Challenge/2023-06-08/Solution.kt)|
-|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Solution](./Daily%20Challenge/2023-06-09/Solution.kt)|
-|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude)|[Solution](./Daily%20Challenge/2023-06-19/Solution.kt)|
+|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|[Solution](./Daily%20Challenge/2023/05%20-%20May/2023-05-29/ParkingSystem.kt)|
+|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Solution](./Daily%20Challenge/2023/05%20-%20May/2023-05-30/MyHashSet.kt)|
+|[Design Underground System](https://leetcode.com/problems/design-underground-system/)|[Solution](./Daily%20Challenge/2023/05%20-%20May/2023-05-31/UndergroundSystem.kt)|
+|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Solution](./Daily%20Challenge/2023/06%20-%20June/2023-06-08/Solution.kt)|
+|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Solution](./Daily%20Challenge/2023/06%20-%20June/2023-06-09/Solution.kt)|
+|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude)|[Solution](./Daily%20Challenge/2023/06%20-%20June/2023-06-19/Solution.kt)|
 
 ## Every Racket Solution
 Because Ri doesn't like Racket either
 |Problem|Solution|
 |-|-|
-|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Solution](./Daily%20Challenge/2023-07-24/solution.rkt)|
+|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Solution](./Daily%20Challenge/2023/07%20-%20July/2023-07-24/solution.rkt)|
 
 ## Math 239
 Little challenge I decided to agree to
