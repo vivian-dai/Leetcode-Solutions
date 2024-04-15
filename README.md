@@ -25,3 +25,8 @@ Little challenge I decided to agree to
 |-|-|-|
 |1|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|[Solution](./Daily%20Challenge/2024/03%20-%20March/2024-03-21/solution.py)|
 |2|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)|[Solution](./Daily%20Challenge/2024/03%20-%20March/2024-03-25/solution.py)|
+|3|[Score of a String](https://leetcode.com/problems/score-of-a-string/description/)|[Solution](./Biweekly%20Contests/Biweekly%20Contest%20128/Score%20of%20a%20String/solution.py)|
+|4|[Minimum Rectangles to Cover Points](https://leetcode.com/problems/minimum-rectangles-to-cover-points/description/)|[Solution](./Biweekly%20Contests/Biweekly%20Contest%20128/Minimum%20Rectanges%20to%20Cover%20Points/solution.py)|
+|5|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)|[Solution](./Daily%20Challenge/2024/04%20-%20April/2024-04-14/solution.py)|
+|6|[Latest Time You Can Obtain After Replacing Characters](https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters/description/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20393/Latest%20Time%20You%20Can%20Obtain%20After%20Replacing%20Characters/solution.py)|
+|7|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/)|[Solution](./Daily%20Challenge/2024/04%20-%20April/2024-04-15/solution.py)|
