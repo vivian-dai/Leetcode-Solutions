@@ -33,3 +33,4 @@ Little challenge I decided to agree to
 |8|[Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/description/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20394/Count%20the%20Number%20of%20Special%20Characters%20I/solution.py)|
 |9|[Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/description/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20394/Count%20the%20Number%20of%20Special%20Characters%20II/solution.py)|
 |10|[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)|[Solution](./Daily%20Challenge/2024/04%20-%20April/2024-04-21/solution.py)|
+|11|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)|[Solution](./Daily%20Challenge/2024/04%20-%20April/2024-04-24/solution.py)|
