@@ -34,3 +34,8 @@ Little challenge I decided to agree to
 |9|[Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/description/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20394/Count%20the%20Number%20of%20Special%20Characters%20II/solution.py)|
 |10|[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)|[Solution](./Daily%20Challenge/2024/04%20-%20April/2024-04-21/solution.py)|
 |11|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)|[Solution](./Daily%20Challenge/2024/04%20-%20April/2024-04-24/solution.py)|
+|12|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Solution](./Learning/Arrays/Max%20Consecutive%20Ones/solution.py)|
+|13|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Solution](./Learning/Arrays/Squares%20of%20a%20Sorted%20Array/solution.py)|
+|14|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)|[Solution](./Learning/Arrays/Third%20Maximum%20Number/solution.py)|
+|15|[Find All Numbers Dsiappeared in An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)|[Solution](./Learning/Arrays/Find%20All%20Numbers%20Dsiappeared%20in%20An%20Array/solution.py)|
+|16|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/)|[Solution](./Learning/Arrays/Valid%20Mountain%20Array/solution.py)|
