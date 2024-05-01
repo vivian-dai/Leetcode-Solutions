@@ -39,3 +39,5 @@ Little challenge I decided to agree to
 |14|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/)|[Solution](./Learning/Arrays/Third%20Maximum%20Number/solution.py)|
 |15|[Find All Numbers Dsiappeared in An Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)|[Solution](./Learning/Arrays/Find%20All%20Numbers%20Dsiappeared%20in%20An%20Array/solution.py)|
 |16|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/)|[Solution](./Learning/Arrays/Valid%20Mountain%20Array/solution.py)|
+|17|[Find the Integer Added to the Array](https://leetcode.com/problems/find-the-integer-added-to-array-i/description/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20395/Find%20the%20Integer%20Added%20to%20the%20Array%20I/solution.py)|
+|18|[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/)|[Solution](./Daily%20Challenge/2024/05%20-%20May/2024-05-01/solution.py)|
