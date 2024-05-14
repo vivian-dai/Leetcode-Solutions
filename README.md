@@ -41,3 +41,8 @@ Little challenge I decided to agree to
 |16|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/)|[Solution](./Learning/Arrays/Valid%20Mountain%20Array/solution.py)|
 |17|[Find the Integer Added to the Array](https://leetcode.com/problems/find-the-integer-added-to-array-i/description/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20395/Find%20the%20Integer%20Added%20to%20the%20Array%20I/solution.py)|
 |18|[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/)|[Solution](./Daily%20Challenge/2024/05%20-%20May/2024-05-01/solution.py)|
+|19|[Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/)|[Solution](./Daily%20Challenge/2024/05%20-%20May/2024-05-02/solution.py)|
+|20|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)|[Solution](./Daily%20Challenge/2024/05%20-%20May/2024-05-03/solution.py)|
+|21|[Check if Grid Satisfies Conditions](https://leetcode.com/problems/check-if-grid-satisfies-conditions/description)|[Solution](./Biweekly%20Contests/Biweekly%20Contest%20130/Check%20if%20Grid%20Satisfies%20Conditions3/solution.py)|
+|22|[Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings)|[Solution](./Weekly%20Contests/Weekly%20Contest%20397/Permutation%20Difference%20between%20Two%20Strings/solution.py)|
+|23|[Valid Word](https://leetcode.com/problems/valid-word/description/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20396/Valid%20Word/solution.py)|
