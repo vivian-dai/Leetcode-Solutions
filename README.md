@@ -46,3 +46,6 @@ Little challenge I decided to agree to
 |21|[Check if Grid Satisfies Conditions](https://leetcode.com/problems/check-if-grid-satisfies-conditions/description)|[Solution](./Biweekly%20Contests/Biweekly%20Contest%20130/Check%20if%20Grid%20Satisfies%20Conditions3/solution.py)|
 |22|[Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings)|[Solution](./Weekly%20Contests/Weekly%20Contest%20397/Permutation%20Difference%20between%20Two%20Strings/solution.py)|
 |23|[Valid Word](https://leetcode.com/problems/valid-word/description/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20396/Valid%20Word/solution.py)|
+|24|[Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/description/)|[Solution](./Daily%20Challenge/2024/05%20-%20May/2024-05-16/solution.py)|
+|25|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/)|[Solution](./Daily%20Challenge/2024/05%20-%20May/2024-06-17/solution.py)|
+|26|[Special Array I](https://leetcode.com/problems/problems/special-array-i/description/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20398/Special%20Array%20I/solution.py)|
