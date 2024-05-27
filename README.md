@@ -1,6 +1,6 @@
 # Leetcode Solutions
 Thanks [@Ri-Hong](https://github.com/Ri-Hong) for introducing me to the Leetcode T-shirt  
-Thanks [@Celeste04](https://github.com/Celeste04) and [@xuserena12](https://github.com/xuserena12) for [dragging me back into Leetcode](#math-239)
+Thanks [@Celeste04](https://github.com/Celeste04) and [@xuserena12](https://github.com/xuserena12) for [dragging me back into Leetcode](#challenges)
 
 ## Every Kotlin Solution
 Because Ri has something against Kotlin
@@ -19,8 +19,10 @@ Because Ri doesn't like Racket either
 |-|-|
 |[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Solution](./Daily%20Challenge/2023/07%20-%20July/2023-07-24/solution.rkt)|
 
-## Math 239
+## Challenges
 Little challenge I decided to agree to
+### Part 1: Math 239
+30/30
 |Count|Problem|Solution|
 |-|-|-|
 |1|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|[Solution](./Daily%20Challenge/2024/03%20-%20March/2024-03-21/solution.py)|
@@ -48,4 +50,14 @@ Little challenge I decided to agree to
 |23|[Valid Word](https://leetcode.com/problems/valid-word/description/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20396/Valid%20Word/solution.py)|
 |24|[Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/description/)|[Solution](./Daily%20Challenge/2024/05%20-%20May/2024-05-16/solution.py)|
 |25|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/)|[Solution](./Daily%20Challenge/2024/05%20-%20May/2024-06-17/solution.py)|
-|26|[Special Array I](https://leetcode.com/problems/problems/special-array-i/description/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20398/Special%20Array%20I/solution.py)|
+|26|[Special Array I](https://leetcode.com/problems/special-array-i/description/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20398/Special%20Array%20I/solution.py)|
+|27|[Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/description/)|[Solution](./Biweekly%20Contests/Biweekly%20Contest%20131/Find%20the%20XOR%20of%20Numbers%20Which%20Appear%20Twice/solution.py)|
+|28|[Find Occurences of an Element in an Array](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/description/)|[Solution](./Biweekly%20Contests/Biweekly%20Contest%20131/Find%20Occurences%20of%20an%20Element%20in%20an%20Array/solution.py)|
+|29|[Find the Number of Good Pairs](https://leetcode.com/problems/find-the-number-of-good-pairs-i/description/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20399/Find%20the%20Number%20of%20Good%20Pairs/solution.py)|
+|30|[String Compression III](https://leetcode.com/problems/string-compression-iii/description/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20399/String%20Compression%20III/solution.py)|
+
+### Part 2: CS 240
+/42
+|Count|Problem|Solution|
+|-|-|-|
+|1|[Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/)|[Solution](./Daily%20Challenge/2024/05%20-%20May/2024-05-27/solution.py)|
