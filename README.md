@@ -61,3 +61,9 @@ Little challenge I decided to agree to
 |Count|Problem|Solution|
 |-|-|-|
 |1|[Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/)|[Solution](./Daily%20Challenge/2024/05%20-%20May/2024-05-27/solution.py)|
+|2|[Single Number III](https://leetcode.com/problems/single-number-iii/description/)|[Solution](./Daily%20Challenge/2024/05%20-%20May/2024-05-31/solution.py)|
+|3|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|[Solution](./Daily%20Challenge/2024/06%20-%20June/2024-06-02/solution.py)|
+|4|[Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/description/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20400/Minimum%20Number%20of%20Chairs%20in%20a%20Waiting%20Room/solution.py)|
+|5|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/)|[Solution](./Daily%20Challenge/2024/06%20-%20June/2024-06-04/solution.py)|
+|6|[Clear Digits](https://leetcode.com/problems/clear-digits/)|[Solution](./Biweekly%20Contests/Biweekly%20Contest%20132/Clear%20Digits/solution.py)|
+|7|[Find the Child Who Has the Ball After K Seconds](https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20401/Find%20the%20Child%20Who%20Has%20the%20Ball%20After%20K%20Seconds/solution.py)|
