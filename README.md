@@ -67,3 +67,13 @@ Little challenge I decided to agree to
 |5|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/)|[Solution](./Daily%20Challenge/2024/06%20-%20June/2024-06-04/solution.py)|
 |6|[Clear Digits](https://leetcode.com/problems/clear-digits/)|[Solution](./Biweekly%20Contests/Biweekly%20Contest%20132/Clear%20Digits/solution.py)|
 |7|[Find the Child Who Has the Ball After K Seconds](https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20401/Find%20the%20Child%20Who%20Has%20the%20Ball%20After%20K%20Seconds/solution.py)|
+|8|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Solution](./Daily%20Challenge/2024/06%20-%20June/2024-06-12/solution.py)|
+|9|[Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)|[Solution](./Daily%20Challenge/2024/06%20-%20June/2024-06-13/solution.py)|
+|10|[Count Pairs That Form a Complete Day I](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20402/Count%20Pairs%20That%20Form%20a%20Complete%20Day%20I/solution.py)|
+|11|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/)|[Solution](./Daily%20Challenge/2024/06%20-%20June/2024-06-17/solution.py)|
+|12|[Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/)|[Solution](./Biweekly%20Contests/Bieweekly%20Contest%20133/Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three/solution.py)|
+|13|[Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20403/Minimum%20Average%20of%20Smallest%20and%20Largest%20Elements/solution.py)|
+|14|[Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20403/Find%20the%20Minimum%20Area%20to%20Cover%20All%20Ones%20I/solution.py)|
+|15|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/)|[Solution](./Daily%20Challenge/2024/06%20-%20June/2024-06-27/solution.py)|
+|16|[Maximum Height of a Triangle](https://leetcode.com/problems/maximum-height-of-a-triangle/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20404/Maximum%20Height%20of%20a%20Triangle/solution.py)|
+|17|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/description/)|[Solution](./Daily%20Challenge/2024/07%20-%20July/2024-07-01/solution.py)|
