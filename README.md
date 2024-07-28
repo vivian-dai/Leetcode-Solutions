@@ -77,3 +77,9 @@ Little challenge I decided to agree to
 |15|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/)|[Solution](./Daily%20Challenge/2024/06%20-%20June/2024-06-27/solution.py)|
 |16|[Maximum Height of a Triangle](https://leetcode.com/problems/maximum-height-of-a-triangle/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20404/Maximum%20Height%20of%20a%20Triangle/solution.py)|
 |17|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/description/)|[Solution](./Daily%20Challenge/2024/07%20-%20July/2024-07-01/solution.py)|
+|18|[Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/)|[Solution](./Daily%20Challenge/2024/07%20-%20July/2024-07-04/solution.py)|
+|19|[Average Waiting Time](https://leetcode.com/problems/average-waiting-time/description/)|[Solution](./Daily%20Challenge/2024/07%20-%20July/2024-07-09/solution.py)|
+|20|[Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/description/)|[Solution](./Daily%20Challenge/2024/07%20-%20July/2024-07-10/solution.py)|
+|21|[Find the Winning Player in Coin Game](https://leetcode.com/problems/find-the-winning-player-in-coin-game/description/)|[Solution](./Biweekly%20Contests/Biweekly%20Contest%20135/Find%20the%20Winning%20Player%20in%20Coin%20Game/solution.py)|
+|22|[Number of Bit Changes to Make Two Integers Equal](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/description/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20407/Number%20of%20Bit%20Changes%20to%20Make%20Two%20Integers%20Equal/solution.py)|
+|23|[Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20408/Find%20if%20Digit%20Game%20Can%20Be%20Won/solution.py)|

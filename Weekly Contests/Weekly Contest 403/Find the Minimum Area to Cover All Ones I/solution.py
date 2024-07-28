@@ -25,5 +25,3 @@ class Solution:
                         if j + 1 > right:
                             right = j + 1
         return (bottom - top) * (right - left)
-
-print(Solution().minimumArea([[1,1]])) # 4
