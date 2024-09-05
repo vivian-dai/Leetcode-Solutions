@@ -88,3 +88,12 @@ Little challenge I decided to agree to
 |26|[Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/description/)|[Solution](./Daily%20Challenge/2024/08%20-%20August/2024-08-03/solution.py)
 |27|[Design Neighbor Sum Service](https://leetcode.com/problems/design-neighbor-sum-service/description)|[Solution](./Weekly%20Contests/Weekly%20Contest%20409/Design%20Neighbor%20Sum%20Service/solution.py)|
 |28|[Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/description/)|[Solution](./Daily%20Challenge/2024/08%20-%20August/2024-08-05/solution.py)|
+|29|[Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/description/)|[Solution](./Daily%20Challenge/2024/08%20-%20August/2024-08-06/solution.py)|
+|30|[Snake in Matrix](https://leetcode.com//problems/snake-in-matrix/description/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20410/Snake%20in%20Matrix/solution.py)|
+|31|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/)|[Solution](./Daily%20Challenge/2024/08%20-%20August/2024-08-26/solution.py)|
+|32|[Find the Key of the Numbers](https://leetcode.com/problems/find-the-key-of-the-numbers/description/)|[Solution](./Biweekly%20Contests/Biweekly%20Contest%20138/Find%20the%20Key%20of%20the%20Numbers/solution.py)|
+|33|[Check if Two Chessboard Squares Have the Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/description/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20413/Check%20if%20Two%20Chessboard%20Squares%20Have%20the%20Same%20Color/solution.py)|
+|34|[Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/description/)|[Solution](./Daily%20Challenge/2024/09%20-%20September/2024-09-01/solution.py)|
+|35|[Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/description/)|[Solution](./Daily%20Challenge/2024/09%20-%20September/2024-09-02/solution.py)|
+|36|[Sum of Digit of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/)|[Solution](./Daily%20Challenge/2024/09%20-%20September/2024-09-03/solution.py)|
+|37|[Find Missing Observations](https://leetcode.com/problems/find-missing-observations/description/)|[Solution](./Daily%20Challenge/2024/09%20-%20September/2024-09-05/solution.py)|
