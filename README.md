@@ -57,7 +57,7 @@ Little challenge I decided to agree to
 |30|[String Compression III](https://leetcode.com/problems/string-compression-iii/description/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20399/String%20Compression%20III/solution.py)|
 
 ### Part 2: CS 240
-/42
+42/42
 |Count|Problem|Solution|
 |-|-|-|
 |1|[Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/)|[Solution](./Daily%20Challenge/2024/05%20-%20May/2024-05-27/solution.py)|
@@ -97,3 +97,8 @@ Little challenge I decided to agree to
 |35|[Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/description/)|[Solution](./Daily%20Challenge/2024/09%20-%20September/2024-09-02/solution.py)|
 |36|[Sum of Digit of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/)|[Solution](./Daily%20Challenge/2024/09%20-%20September/2024-09-03/solution.py)|
 |37|[Find Missing Observations](https://leetcode.com/problems/find-missing-observations/description/)|[Solution](./Daily%20Challenge/2024/09%20-%20September/2024-09-05/solution.py)|
+|38|[Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20414/Convert%20Date%20to%20Binary/solution.py)|
+|39|[Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/)|[Solution](./Daily%20Challenge/2024/09%20-%20September/2024-09-11/solution.py)|
+|40|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/)|[Solution](./Daily%20Challenge/2024/09%20-%20September/2024-09-12/solution.py)|
+|41|[Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains/description/)|[Solution](./Biweekly%20Contests/Biweekly%20Contest%20149/Find%20Indices%20of%20Stable%20Mountains/solution.py)|
+|42|[The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/description/)|[Solution](./Weekly%20Contests/Weekly%20Contest%20415/The%20Two%20Sneaky%20Numbers%20of%20Digitville/solution.py)|
